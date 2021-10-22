@@ -34,7 +34,7 @@ HTML index refactor
 * 
 
 CSS Refactor
-* Added CSS Table of Contents
+* Created CSS Table of Contents
 * Changed div to nav
 * Reduced repetitive code:
   - Cleaned up code by adding font color & font-family to "section" content
