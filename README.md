@@ -1,14 +1,19 @@
 # HTML-CSS-Git-Challenge
 Code Refactor Assignment for Module 1 - Bootcamp
 
-To optimize WebPage for search engines by editing codebase to follow accessibility standards:
-
 This repository contains a code refactoring for Horiseon. 
-The purpose of this refactor is to modify the existing codebase so that the code meets accessibility standards and the site is optimized for search engines. 
-In addition to modifying the HTML I have also made the CSS more efficient, by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
 
-* Semantic HTML elements in structure.
-* HTML elements follow a logical structure independent of styling and positioning.
+Purpose: To optimize WebPage for search engines by editing codebase to follow accessibility standards:
+
+Actions: 
+Modified the HTML by:
+* inserting semantic HTML elements in structure.
+* organizing HTML elements into a logical structure independent of styling and positioning.
+Increased the CSS efficacy, by:
+* consolidating CSS selectors and properties
+* organizing them to follow the semantic structure of the HTML elements.
+Embedded comments before each element or section of the page.
+Also ensured that:
 * Image elements have accessible alt attributes.
 * Heading attributes fall in sequential order.
 * Title element has a concise, descriptive title.
@@ -37,8 +42,9 @@ CSS Refactor
   - Cleaned up code - Removed repetitive h3 attributes
   - Cleaned up code - Removed repetitive img attributes
   
-Link for webpage: https://kitchen-boy.github.io/HTML-CSS-Git-Challenge/
+Web App link: https://kitchen-boy.github.io/HTML-CSS-Git-Challenge/
   
   https://user-images.githubusercontent.com/92004417/138390863-b414d42b-4b36-4b20-b729-e209b143fe12.png
+Screenshot of Web App:
   ![_Users_kayechen-boyce_Desktop_projects_HTML-CSS-Git-Challenge_index html](https://user-images.githubusercontent.com/92004417/138391111-324dc228-0813-4cf4-a4da-a215e725d56a.png)
   
