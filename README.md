@@ -34,3 +34,5 @@ CSS Refactor
   - Cleaned up code - Removed repetitive img attributes
   
   https://user-images.githubusercontent.com/92004417/138390863-b414d42b-4b36-4b20-b729-e209b143fe12.png
+  ![_Users_kayechen-boyce_Desktop_projects_HTML-CSS-Git-Challenge_index html](https://user-images.githubusercontent.com/92004417/138391111-324dc228-0813-4cf4-a4da-a215e725d56a.png)
+  
