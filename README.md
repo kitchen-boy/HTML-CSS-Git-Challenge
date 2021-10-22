@@ -1,7 +1,11 @@
 # HTML-CSS-Git-Challenge
 Code Refactor Assignment for Module 1 - Bootcamp
 
-To Optimize WebPage for search engines by editing codebase to follow accessibility standards:
+To optimize WebPage for search engines by editing codebase to follow accessibility standards:
+
+This repository contains a code refactoring for Horiseon. 
+The purpose of this refactor is to modify the existing codebase so that the code meets accessibility standards and the site is optimized for search engines. 
+In addition to modifying the HTML I have also made the CSS more efficient, by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
 
 * Semantic HTML elements in structure.
 * HTML elements follow a logical structure independent of styling and positioning.
