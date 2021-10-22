@@ -14,14 +14,14 @@ The following is a summary of edits to the codebase:
 HTML index refactor
 * Changed <title> from "website" to "Horiseon", the name of website.
 * Added semantic HTML elements: 
- - Changed <div> to <header>.
- - Changed <div> to <nav>.
- - Changed <div> to <section>.
- - Changed <div> to <aside>.
+  - Changed div to header.
+  - Changed div to nav.
+  - Changed div to section.
+  - Changed div to aside.
 * Fixed nav link for "Search Engine Optimization".
 * Chose appropriate text alternatives for decorative images and icons:
- - Hid decorative images & icons by adding a null (empty) text alternative (alt="")
- - Cleaned code - removed unnecessary </img>.
+  - Hid decorative images & icons by adding a null (empty) text alternative (alt="")
+  - Cleaned code - removed unnecessary /img.
 * 
 
 CSS Refactor
